@@ -56,8 +56,7 @@ Report obsahuje 4 stránky:
 1. **Úvod** – titulní stránka s popisem reportu a navigací na jednotlivé sekce
 2. **Finanční ukazatele** – přehled tržeb, plnění ročního cíle, rozdělení obratu podle kanálu a typu platby, vývoj v čase
 3. **Identifikované nákupy** – nákupní chování podle kraje, pohlaví, věkové skupiny a zákaznického segmentu
-4. **Přehled sortimentu<img width="1032" height="614" alt="Úvod" src="https://github.com/user-attachments/assets/6a8ea7d2-0326-4a49-8a68-44649d9c6197" />
-** – detailní přehled produktů (marže, zisk, ceny) s rozkladem podle kategorií
+4. **Přehled sortimentu** – detailní přehled produktů (marže, zisk, ceny) s rozkladem podle kategorií
 
 ## Použité vizuály
 - Tabulka
